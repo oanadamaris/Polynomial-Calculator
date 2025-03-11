@@ -64,16 +64,18 @@ Enter polynomials in standard form (e.g., `3x^2 - 2x + 5`).
 ✅ **Six Operations**  
 - Arithmetic: Add, Substract, Multiply, Divide
   
-<p align="center">
+<p align="left">
   <img width="400" alt="Add" src="https://github.com/user-attachments/assets/04f08a58-65f6-4db8-93af-77722cd648f7" />
   <img width="400" alt="Sub" src="https://github.com/user-attachments/assets/e4893deb-57eb-4171-b30c-4446811ba214" />
+</p>
+<p align="left">
   <img width="400" alt="Mult" src="https://github.com/user-attachments/assets/86ff9edd-c3fe-43de-9ee2-3ed606b6cf84" />
   <img width="400" alt="Div" src="https://github.com/user-attachments/assets/115887dc-e593-49aa-8e0c-f9ab57ce461c" />
 </p>
 
 - Calculus: Derive, Integrate
 
-  <p align="center">
+  <p align="left">
   <img width="400" alt="Derivat" src="https://github.com/user-attachments/assets/422ceb81-a6d2-4ee5-8000-aed7381538d1" />
   <img width="400" alt="Integrate" src="https://github.com/user-attachments/assets/cef2a907-57d5-455c-952f-5dab23ad99df" />
 </p>
